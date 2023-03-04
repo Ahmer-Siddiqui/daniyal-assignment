@@ -1,0 +1,245 @@
+body {
+ padding: 0%;
+ margin: 0%;}
+.navbar {
+    width: 100%;
+    height: 50px;
+    display: flex;
+   
+}
+.div1 { 
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: yellow;
+    margin-left: 20%;
+    background-color: gray;
+}
+.fa-solid {
+    margin-left: 20%;
+}
+.p1 {
+    color: white;
+}
+.div2{
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: gray;
+}
+.div3 {
+    width: 20%;
+    align-items: center;
+    background-color: gray;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    margin-right: 20%;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.divbar {
+    width: 100%;
+    height: 60vh;
+    display: flex ;
+}
+.div4 {
+    width: 35%;
+    background-color: rgba(128, 128, 128, 0.979);
+    color: white;
+    width: 40%;
+    padding: 70px ;
+    margin-left: 20%;
+
+}
+.hiam {
+    margin-left: 10%;
+}
+.pfree{
+    margin-left: 10%;
+}
+.span1 {
+    border-bottom: 2px solid yellow;
+    margin-left: 10%;
+}
+.piam {
+    padding: 70px;
+    display: flex;
+    margin-left: 10%;
+}
+.div5 {
+    width: 30%;
+    background-color:gray;
+    height: 70;
+}
+.div6 {
+    width: 35%;
+    background-color:rgb(128, 128, 128);
+    color: white;
+    margin-right: 20%;
+   }
+.pa {
+    display: flex;
+    margin-left: 5%;
+    align-items: center;
+}
+.h1 {
+    display: flex;
+    margin-left: 5%;
+}
+.pshow {
+    color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    margin-left: 5%;
+}
+.div7{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly
+}
+.image {
+    height: 90%;
+    margin-top: 5%;
+    margin-right: 5%;
+
+}
+.image {
+    border-radius: 100%;
+    background-color: rgba(0, 0, 0, 0.274);
+}
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: gray;
+    width: 80%;
+    height: 80px;
+    margin-left: 20%;
+    max-width: 60%;
+}
+.button1{
+    width: 10%;
+    height: 30px;
+    background-color: rgba(128, 128, 128, 0.575);
+    color: white;
+    border-color: rgba(128, 128, 128, 0.575);
+    margin-left: 20%;
+}
+.button2{
+    width: 10%;
+    height: 30px;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.575);
+    border-color: rgba(128, 128, 128, 0.575);
+}
+.button3{
+    width: 10%;
+    height: 30px;
+    background-color: rgba(128, 128, 128, 0.575);
+    color: white;
+    border-color: rgba(128, 128, 128, 0.575);
+}
+.button4{
+    width: 10%;
+    height: 30px;
+    background-color: rgba(128, 128, 128, 0.575);
+    color: white;
+    border-color: rgba(128, 128, 128, 0.575);
+    margin-right: 20%;
+}
+.mainnav {
+    display: flex;
+    width: 100%;
+}
+.nav1 {
+    width: 50%;
+    background-color: gray;
+    color: white;
+    margin-left: 20%;
+}
+.nav2 {
+    width: 50% ;
+    background-color: gray; 
+    margin-right: 20%;
+}
+.b1 {
+    display: flex;
+    margin-left: 20%;
+}
+.navcomp{
+    display: flex;
+    justify-content:center;
+}
+.pro {
+    margin-left:15%;
+    display: flex;
+    justify-content: center;
+}
+.com{
+    margin-left: 15%;
+    display: flex;
+    justify-content: center;
+}
+.p2 {
+    display: flex;
+    margin-left: 20%;
+}
+.mainpro {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 5%;
+}
+.mainpro2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.golden{
+    color:yellow
+}
+.maindiv1{
+    display: flex;
+    margin-left: 10%;
+}
+.img2 {
+    width: 25%;
+    height: 80px;
+    align-content: center;
+    display: flex;
+}
+.h4{
+    margin-left: 5%;
+}
+.img3{
+width: 23%;
+height: 80px;
+margin-top: 4%;
+margin-left: 10%;
+
+}
+.divimg{
+    display: flex;
+}
+.h5 {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.img4 {
+    width: 23%;
+    height: 80px;
+    margin-top: 4%;
+    margin-left: 10%;
+}
+.divimg2 {
+    display: flex;
+}
+.h6{
+    margin-top: 5%;
+    margin-left: 5%;
+}
